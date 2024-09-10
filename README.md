@@ -8,16 +8,14 @@ J.A.T.E is a Progressive Web Application (PWA) that runs in the browser, offline
 ## Table of Contents
 1. [Description](#description)
 2. [Table of Contents](#table-of-contents)
-3. [Usage](#usage)
-4. [Installation](#installation)
-5. [License](#license)
-6. [Technologies Employed](#technologies-employed)
-7. [Future Development](#future-development)
-8. [Contributing](#contributing)
-9. [Tests](#tests)
-10. [Questions](#questions)
+3. [Installation && Usage](#installation-and-usage)
+4. [License](#license)
+5. [Technologies Employed](#technologies-employed)
+6. [Contributing](#contributing)
+7. [Tests](#tests)
+8. [Questions](#questions)
 
-## Usage
+
 ### User Story
 
 ```md
@@ -56,7 +54,7 @@ WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 ```
 
-## Installation
+## Installation and Usage
 This application is deployed to [Render](https://pwa-text-editor-0qni.onrender.com/).
 
 To run J.A.T.E locally:
@@ -66,10 +64,6 @@ To run J.A.T.E locally:
 3. Invoke application with ```npm run start:dev```
 </br>
 The following animation demonstrates the application's functionality:
-
-
-
-
 
 </br>
 
